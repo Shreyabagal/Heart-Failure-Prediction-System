@@ -120,6 +120,10 @@ HIGH: The patient is at high risk of heart failure and should immediately consul
 
 
 
+### 🙋‍♀️ Contributor
+**Shreya Ramchandra Bagal** – Designed and developed the Heart Failure Prediction System, implemented machine learning models for risk prediction, and created an interactive and visually appealing Streamlit web application to support healthcare decision-making.
+
+
 
 
 
