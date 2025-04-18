@@ -91,3 +91,28 @@ LOW: The patient is at low risk of heart failure. Maintaining a healthy lifestyl
 MODERATE: The patient has a moderate risk. It is advised to have regular health screenings and consider preventive care.
 
 HIGH: The patient is at high risk of heart failure and should immediately consult a healthcare provider for further evaluation and intervention.
+
+
+## 📸 Screenshots & Visual Overview
+
+### 📊 Heart Failure Prediction System  
+[![Heart Failure Prediction System](images/Heart%20Failure%20Prediction%20System.jpg)](images/Heart%20Failure%20Prediction%20System.jpg)  
+**Description:** This is the homepage of the Heart Failure Prediction System built using Streamlit, offering an intuitive user interface.
+
+---
+
+### 🧾 Patient Summary  
+[![Patient Summary](images/Patient%20Summary.jpg)](images/Patient%20Summary.jpg)  
+**Description:** A heart-shaped summary view displaying key patient health metrics in a visually appealing format.
+
+---
+
+### 🔍 Prediction Result & Risk Breakdown  
+[![Prediction Result & Risk Breakdown](images/Prediction%20Result%20%26%20Risk%20Breakdown.jpg)](images/Prediction%20Result%20%26%20Risk%20Breakdown.jpg)  
+**Description:** Shows the predicted risk level and visual risk distribution using an easy-to-understand format.
+
+---
+
+### 📈 Patient Health Data Overview  
+[![Patient Health Data Overview](images/Patient%20Health%20Data%20Overview.jpg)](images/Patient%20Health%20Data%20Overview.jpg)  
+**Description:** Provides a detailed overview of all user-input health data before prediction is made.
