@@ -115,4 +115,12 @@ HIGH: The patient is at high risk of heart failure and should immediately consul
 
 ### 📈 Patient Health Data Overview  
 [![Patient Health Data Overview](images/Patient%20Health%20Data%20Overview.jpg)](images/Patient%20Health%20Data%20Overview.jpg)  
-**Description:** Provides a detailed overview of all user-input health data before prediction is made.
+**Description:** Provides a detailed overview of all user-input health data.
+
+
+
+
+
+
+
+
