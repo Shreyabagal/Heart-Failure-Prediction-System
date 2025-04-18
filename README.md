@@ -95,7 +95,7 @@ HIGH: The patient is at high risk of heart failure and should immediately consul
 
 ## 📸 Screenshots & Visual Overview
 
-### 📊 Heart Failure Prediction System  
+### 🫀 Heart Failure Prediction System  
 [![Heart Failure Prediction System](images/Heart%20Failure%20Prediction%20System.jpg)](images/Heart%20Failure%20Prediction%20System.jpg)  
 **Description:** This is the homepage of the Heart Failure Prediction System built using Streamlit, offering an intuitive user interface.
 
@@ -103,7 +103,7 @@ HIGH: The patient is at high risk of heart failure and should immediately consul
 
 ### 🧾 Patient Summary  
 [![Patient Summary](images/Patient%20Summary.jpg)](images/Patient%20Summary.jpg)  
-**Description:** A heart-shaped summary view displaying key patient health metrics in a visually appealing format.
+**Description:** A visually appealing summary view showcasing key patient health metrics in a concise and easy-to-understand format.
 
 ---
 
